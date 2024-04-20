@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+.metro-health-check*
+
+eventtracker-26060-8190d78911bf.json
+eventtracker-26060-firebase-adminsdk-iwyss-854b89c327.json
+@vanshikadama__client-fcm-api-key.md
+google-services.json
